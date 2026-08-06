@@ -29,6 +29,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: site
+      # Retry after clearing the previous stuck Pages deployment.
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4

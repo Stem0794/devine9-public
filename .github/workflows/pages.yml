@@ -34,3 +34,4 @@ jobs:
         uses: actions/deploy-pages@v5
 
 # Test after removing the Pages branch policy.
+# Retry after removing the environment branch policy lock.

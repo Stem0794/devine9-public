@@ -9,3 +9,5 @@ politique de confidentialité et mentions légales.
 
 Le code de l’application mobile, le catalogue de questions et les packs premium
 restent dans le dépôt privé `Stem0794/devine9`.
+
+GitHub Pages publie le dossier `/docs` de la branche `main`.
